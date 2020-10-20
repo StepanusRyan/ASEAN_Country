@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ASEANCountries</string>
+    <string name="daftar_negara_di_asean">Daftar Negara di ASEAN</string>
+    <string name="negara">Negara</string>
+    <string name="ibu_kota">Ibu Kota</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="username">Stepanus Ryan Andika Candra</string>
+    <string name="detail_negara">Detail Negara</string>
+    <string name="lagu">Lagu Kebangsaan</string>
+    <string name="putar_lagu">Putar Lagu</string>
+    <string name="pemimpin_negara">Pemimpin Negara</string>
+    <string name="semboyan">Semboyan</string>
+    <string name="email">stepanus.ryan97@gmail.com</string>
+</resources>
